@@ -11,7 +11,7 @@ data/
 ├── waspwaisted/
 ├── gooseneck/
 └── regular/
-'''
+
 Each file corresponds to a single magnetic hysteresis loop and is provided as a
 plain-text, tab-delimited (.dat) file.
 
