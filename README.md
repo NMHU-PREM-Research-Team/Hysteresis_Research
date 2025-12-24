@@ -24,3 +24,5 @@ the associated research manuscript.
 ├── results_cnn/              # Generated automatically
 ├── README.md
 ├── requirements.txt
+```
+All required Python dependencies are listed in `requirements.txt`.
