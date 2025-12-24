@@ -6,12 +6,12 @@ DOI: https://doi.org/10.5281/zenodo.17969954
 
 The dataset is provided as a compressed archive. After extraction, the data
 directory should have the following structure:
-
+text'''
 data/
 ├── waspwaisted/
 ├── gooseneck/
 └── regular/
-
+'''
 Each file corresponds to a single magnetic hysteresis loop and is provided as a
 plain-text, tab-delimited (.dat) file.
 
