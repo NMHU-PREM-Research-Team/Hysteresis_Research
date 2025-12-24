@@ -6,7 +6,7 @@ DOI: https://doi.org/10.5281/zenodo.17969954
 
 The dataset is provided as a compressed archive. After extraction, the data
 directory should have the following structure:
-text'''
+
 data/
 ├── waspwaisted/
 ├── gooseneck/
